@@ -15,3 +15,6 @@ https://github.com/rxyzqc/Growtopia-Projects/releases/download/Plutonium/Plutoni
 
 # Unbanner
 https://github.com/rxyzqc/Growtopia-Projects/releases/download/Unbanner/Unbanner.exe
+
+# Casino Cheat
+https://github.com/rxyzqc/Growtopia-Projects/releases/download/CasinoCheat/CasinoCheat.exe
