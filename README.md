@@ -1,3 +1,6 @@
+# PowerKuy
+https://github.com/rxyzqc/Growtopia-Projects/releases/download/PowerKuy/PowerKuy.apk
+
 # Plutonium
 https://github.com/rxyzqc/Growtopia-Projects/releases/download/Plutonium/Plutonium.exe
 
