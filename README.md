@@ -1,8 +1,8 @@
-# GABB
-https://github.com/rxyzqc/Growtopia-Projects/releases/download/GABB/GABBV2.exe
-
 # GrowPai
 https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GrowPai.exe
+
+# GABB
+https://github.com/rxyzqc/Growtopia-Projects/releases/download/GABB/GABBV2.exe
 
 # Eternity
 https://github.com/rxyzqc/Growtopia-Projects/releases/download/Eternity/EternityV3.exe
