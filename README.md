@@ -1,9 +1,6 @@
 # GrowPai Launcher
 https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowpaiLauncher/GrowPaiLauncher.exe
 
-# GrowPai
-https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GrowPai.exe
-
 # GABB
 https://github.com/rxyzqc/Growtopia-Projects/releases/download/GABB/GABBV2.exe
 
