@@ -1,4 +1,4 @@
-# GrowPai for CPS
+# GrowPai
 https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GPai4CPS.exe
 
 # GABB
