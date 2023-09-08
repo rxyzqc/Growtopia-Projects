@@ -1,5 +1,5 @@
 # GrowPai
-https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GPai4CPS.exe
+Growpai -> https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GPai.exe
 
 # GABB
 https://github.com/rxyzqc/Growtopia-Projects/releases/download/GABB/GABBV2.exe
