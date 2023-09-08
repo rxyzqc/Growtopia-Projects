@@ -1,5 +1,6 @@
 # GrowPai
 Growpai -> https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GPai.exe
+Growtopia -> https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GrowtopiaInstallerV4.19.exe
 
 # GABB
 https://github.com/rxyzqc/Growtopia-Projects/releases/download/GABB/GABBV2.exe
