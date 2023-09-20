@@ -1,8 +1,6 @@
 # GrowPai
 Growpai -> https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GPai.exe
 
-Growtopia -> https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe
-
 # GABB
 https://github.com/rxyzqc/Growtopia-Projects/releases/download/GABB/GABBV2.exe
 
@@ -17,6 +15,3 @@ https://github.com/rxyzqc/Growtopia-Projects/releases/download/Plutonium/Plutoni
 
 # Unbanner
 https://github.com/rxyzqc/Growtopia-Projects/releases/download/Unbanner/Unbanner.exe
-
-# Casino Cheat
-https://github.com/rxyzqc/Growtopia-Projects/releases/download/CasinoCheat/CasinoCheat.exe
