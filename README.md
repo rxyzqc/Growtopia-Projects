@@ -1,8 +1,10 @@
 # GrowPai
-https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GPai.exe
+PC: https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GPai.exe
+Android: https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GPai_Droid.apk
 
 # GABB
-https://github.com/rxyzqc/Growtopia-Projects/releases/download/GABB/GABBV2.exe
+PC: https://github.com/rxyzqc/Growtopia-Projects/releases/download/GABB/GABBV2.exe
+Android: https://github.com/rxyzqc/Growtopia-Projects/releases/download/GABB/GABB_Droid.apk
 
 # Eternity
 https://github.com/rxyzqc/Growtopia-Projects/releases/download/Eternity/EternityV3.exe
