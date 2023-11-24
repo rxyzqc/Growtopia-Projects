@@ -1,7 +1,7 @@
 # GrowPai
-PC: https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GPai.exe
+# PC: https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GPai.exe
 
-Android: https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GPai_Droid.apk
+# Android: https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GPai_Droid.apk
 
 Supported GT Version: https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe
 
