@@ -3,6 +3,8 @@ PC: https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GPai.
 
 Android: https://github.com/rxyzqc/Growtopia-Projects/releases/download/GrowPai/GPai_Droid.apk
 
+Supported GT Version: https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe
+
 # GABB
 PC: https://github.com/rxyzqc/Growtopia-Projects/releases/download/GABB/GABBV2.exe
 
